@@ -1,0 +1,124 @@
+[MOIP: acessou o arquivo de retorno. 
+
+19/07 - 14:57:36 [MOIP] Acessou o arquivo de retorno. 
+
+19/07 - 14:57:36 [moip: 19296525] chegou no retorno 
+
+19/07 - 14:57:36 [moip: 19296525] params: 
+
+19/07 - 14:57:36 [moip: 19296525] query: payment_method_id='1', total_value='33.60', transaction_moip_code='19296525', installment='1', payment_state_id='2' 
+
+19/07 - 14:57:36 [MOIP] Acessou o arquivo de retorno. 
+
+19/07 - 14:57:36 [moip: 19296525] chegou no retorno 
+
+19/07 - 14:57:36 [moip: 19296525] params: 
+
+19/07 - 14:57:36 [moip: 19296525] query: payment_method_id='1', total_value='33.60', transaction_moip_code='19296525', installment='1', payment_state_id='3' 
+
+19/07 - 14:57:36 [moip: 19296525] salvou. 
+
+19/07 - 14:57:36 [moip: 19296525] salvou. 
+
+19/07 - 14:59:56 [MOIP] Acessou o arquivo de retorno. 
+
+19/07 - 15:06:25 [MOIP] Acessou o arquivo de retorno. 
+
+19/07 - 15:06:25 [moip: 19296847] chegou no retorno 
+
+19/07 - 15:06:25 [moip: 19296847] params: 
+
+19/07 - 15:06:25 [moip: 19296847] query: payment_method_id='1', total_value='33.60', transaction_moip_code='19296847', installment='1', payment_state_id='2' 
+
+19/07 - 15:06:25 [moip: 19296847] salvou. 
+
+19/07 - 15:06:25 [MOIP] Acessou o arquivo de retorno. 
+
+19/07 - 15:06:25 [moip: 19296847] chegou no retorno 
+
+19/07 - 15:06:25 [moip: 19296847] params: 
+
+19/07 - 15:06:25 [moip: 19296847] query: payment_method_id='1', total_value='33.60', transaction_moip_code='19296847', installment='1', payment_state_id='3' 
+
+19/07 - 15:06:25 [moip: 19296847] salvou. 
+
+19/07 - 15:12:41 [MOIP] Acessou o arquivo de retorno. 
+
+19/07 - 15:12:41 [moip: 19297034] chegou no retorno 
+
+19/07 - 15:12:41 [moip: 19297034] params: 
+
+19/07 - 15:12:41 [moip: 19297034] query: payment_method_id='1', total_value='33.60', transaction_moip_code='19297034', installment='1', payment_state_id='2' 
+
+19/07 - 15:12:41 [moip: 19297034] salvou. 
+
+19/07 - 15:12:41 [MOIP] Acessou o arquivo de retorno. 
+
+19/07 - 15:12:41 [moip: 19297034] chegou no retorno 
+
+19/07 - 15:12:41 [moip: 19297034] params: 
+
+19/07 - 15:12:41 [moip: 19297034] query: payment_method_id='1', total_value='33.60', transaction_moip_code='19297034', installment='1', payment_state_id='3' 
+
+19/07 - 15:12:41 [moip: 19297034] salvou. 
+
+19/07 - 15:16:27 [MOIP] Acessou o arquivo de retorno. 
+
+19/07 - 15:16:27 [moip: 19297138] chegou no retorno 
+
+19/07 - 15:16:27 [moip: 19297138] params: 
+
+19/07 - 15:16:27 [moip: 19297138] query: payment_method_id='1', total_value='32.40', transaction_moip_code='19297138', installment='1', payment_state_id='2' 
+
+19/07 - 15:16:27 [moip: 19297138] salvou. 
+
+19/07 - 15:16:27 [MOIP] Acessou o arquivo de retorno. 
+
+19/07 - 15:16:27 [moip: 19297138] chegou no retorno 
+
+19/07 - 15:16:27 [moip: 19297138] params: 
+
+19/07 - 15:16:27 [moip: 19297138] query: payment_method_id='1', total_value='32.40', transaction_moip_code='19297138', installment='1', payment_state_id='3' 
+
+19/07 - 15:16:27 [moip: 19297138] salvou. 
+
+19/07 - 15:19:14 [MOIP] Acessou o arquivo de retorno. 
+
+19/07 - 15:19:14 [moip: 19297221] chegou no retorno 
+
+19/07 - 15:19:14 [moip: 19297221] params: 
+
+19/07 - 15:19:14 [moip: 19297221] query: payment_method_id='1', total_value='33.60', transaction_moip_code='19297221', installment='1', payment_state_id='2' 
+
+19/07 - 15:19:14 [MOIP] Acessou o arquivo de retorno. 
+
+19/07 - 15:19:14 [moip: 19297221] chegou no retorno 
+
+19/07 - 15:19:14 [moip: 19297221] params: 
+
+19/07 - 15:19:14 [moip: 19297221] query: payment_method_id='1', total_value='33.60', transaction_moip_code='19297221', installment='1', payment_state_id='3' 
+
+19/07 - 15:19:14 [moip: 19297221] salvou. 
+
+19/07 - 15:19:14 [moip: 19297221] salvou. 
+
+19/07 - 15:22:23 [MOIP] Acessou o arquivo de retorno. 
+
+19/07 - 15:22:23 [moip: 19297306] chegou no retorno 
+
+19/07 - 15:22:23 [moip: 19297306] params: 
+
+19/07 - 15:22:23 [moip: 19297306] query: payment_method_id='1', total_value='33.60', transaction_moip_code='19297306', installment='1', payment_state_id='2' 
+
+19/07 - 15:22:23 [moip: 19297306] salvou. 
+
+19/07 - 15:22:23 [MOIP] Acessou o arquivo de retorno. 
+
+19/07 - 15:22:23 [moip: 19297306] chegou no retorno 
+
+19/07 - 15:22:23 [moip: 19297306] params: 
+
+19/07 - 15:22:23 [moip: 19297306] query: payment_method_id='1', total_value='33.60', transaction_moip_code='19297306', installment='1', payment_state_id='3' 
+
+19/07 - 15:22:23 [moip: 19297306] salvou. 
+

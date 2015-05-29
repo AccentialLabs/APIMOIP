@@ -1,0 +1,17 @@
+[09-May-2013 14:43:23] PHP Fatal error:  Call to undefined function  pr() in /home/trueo846/apimoip/retorno.php on line 96
+[19-Jul-2013 11:04:39] PHP Warning:  curl_setopt(): supplied argument is not a valid cURL handle resource in /home/trueo846/secure/apimoip/cadastro.php on line 18
+[19-Jul-2013 11:04:39] PHP Warning:  curl_setopt(): supplied argument is not a valid cURL handle resource in /home/trueo846/secure/apimoip/cadastro.php on line 19
+[19-Jul-2013 11:04:40] PHP Fatal error:  Call to undefined function  pr() in /home/trueo846/secure/apimoip/cadastro.php on line 25
+[19-Jul-2013 11:04:55] PHP Fatal error:  Call to undefined function  pr() in /home/trueo846/secure/apimoip/cadastro.php on line 25
+[19-Jul-2013 11:10:59] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'trueo8462'@'localhost' (using password: YES) in /home/trueo846/secure/apimoip/retorno.php on line 6
+[19-Jul-2013 11:26:26] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trueo846/secure/apimoip/cadastro.php:2) in /home/trueo846/secure/apimoip/cadastro.php on line 36
+[19-Jul-2013 11:26:35] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trueo846/secure/apimoip/cadastro.php:2) in /home/trueo846/secure/apimoip/cadastro.php on line 36
+[19-Jul-2013 11:26:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trueo846/secure/apimoip/cadastro.php:2) in /home/trueo846/secure/apimoip/cadastro.php on line 36
+[19-Jul-2013 11:26:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trueo846/secure/apimoip/cadastro.php:2) in /home/trueo846/secure/apimoip/cadastro.php on line 36
+[19-Jul-2013 11:27:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trueo846/secure/apimoip/cadastro.php:2) in /home/trueo846/secure/apimoip/cadastro.php on line 36
+[19-Jul-2013 11:27:28] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trueo846/secure/apimoip/cadastro.php:2) in /home/trueo846/secure/apimoip/cadastro.php on line 36
+[19-Jul-2013 11:27:40] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trueo846/secure/apimoip/cadastro.php:2) in /home/trueo846/secure/apimoip/cadastro.php on line 36
+[19-Jul-2013 11:31:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trueo846/secure/apimoip/cadastro.php:2) in /home/trueo846/secure/apimoip/cadastro.php on line 36
+[19-Jul-2013 11:31:41] PHP Fatal error:  Call to undefined function  mask() in /home/trueo846/secure/apimoip/cadastro.php on line 34
+[19-Jul-2013 11:32:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/trueo846/secure/apimoip/cadastro.php:2) in /home/trueo846/secure/apimoip/cadastro.php on line 37
+[19-Jul-2013 14:01:31] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'trueo846'@'localhost' (using password: NO) in /home/trueo846/secure/apimoip/retorno.php on line 7
